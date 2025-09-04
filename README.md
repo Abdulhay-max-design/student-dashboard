@@ -43,5 +43,5 @@ streamlit run app.py
 3️⃣ Run the app
 streamlit run app.py
 
-git clone https://github.com/yourusername/student-grades-dashboard.git
-cd student-grades-dashboard
+
+
